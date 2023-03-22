@@ -1,3 +1,6 @@
+import javax.swing.*;
+import java.awt.event.*;
+
 public class MultiplaThread extends JFrame {
     private JButton botao;
 
